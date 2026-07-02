@@ -2,11 +2,11 @@
 
 PyCalc Studio is a Python-based multi-purpose calculator that combines scientific calculations, polynomial graph plotting, statistical analysis, and basic physics calculations into a single application.
 
-The project was developed to strengthen Python programming skills while creating a useful tool for students and learners.
+This project was developed to strengthen Python programming skills while building a practical tool for students and learners.
 
 ---
 
-## ✨ Features
+## Features
 
 ### 🔢 Scientific Calculator
 - Basic arithmetic operations
@@ -48,14 +48,14 @@ The project was developed to strengthen Python programming skills while creating
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Matplotlib
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 PyCalc-Studio/
@@ -63,25 +63,11 @@ PyCalc-Studio/
 │── README.md
 ```
 
-> Replace `pycalc.py` with your actual Python filename if it is different.
-
 ---
 
-## 🚀 Installation
+## Running the Project
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/PyCalc-Studio.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd PyCalc-Studio
-```
-
-Run the program:
+Run the following command in the project directory:
 
 ```bash
 python pycalc.py
@@ -89,48 +75,33 @@ python pycalc.py
 
 ---
 
-## 🎯 Purpose
+## Learning Outcomes
 
-This project was created to improve my understanding of:
+This project helped me improve my understanding of:
 
 - Python Programming
 - Functions
 - Conditional Statements
 - Loops
 - Mathematical Computations
-- Data Visualization using Matplotlib
+- Data Visualization with Matplotlib
 - Problem Solving
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```markdown
-![Home Screen](assets/home.png)
-
-![Polynomial Graph](assets/graph.png)
-```
-
----
-
-## 🚀 Future Improvements
+## Future Improvements
 
 - Matrix Calculator
 - Complex Number Calculator
 - Unit Converter
 - Equation Solver
 - More Physics Modules
-- More Statistical Functions
+- Additional Statistical Functions
 - Improved Error Handling
-- Better User Experience
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aviraj Roy**
 
@@ -139,10 +110,6 @@ Jadavpur University
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the MIT License.
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
+This project is open-source and available under the MIT License.
